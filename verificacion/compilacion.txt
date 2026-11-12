@@ -1,0 +1,12 @@
+Compilacion y enlace de los cuatro perfiles: SUCCESS.
+Board genericSTM32F401RC, Cortex-M4, 256 KiB flash, 64 KiB RAM.
+PlatformIO ststm32 19.6.0, framework STM32duino 2.12.0, GNU Arm Embedded 12.3.1.
+HEX validado por checksum de registro, direcciones, pila inicial, vectores y reconstruccion exacta del BIN generado.
+
+Perfil                  bytes BIN   SHA-256 del archivo HEX
+banco_usb.hex            50040 bytes   3bf865731d47c3d6c809e2fffd4710f84c6b26f605e7385a3e596c2c6e47cda9
+diagnostico_usb.hex      49776 bytes   69adedc10e00eab2abfbf0c9ef9005df2f40ca40ad9e61d7d024fea1adf036f9
+equilibrio_esp.hex       36256 bytes   54bd4197ea1a3ce1ace92b8ef6d723679647374a1b6c857540078eab512c0f80
+equilibrio_usb.hex       49968 bytes   6b45014e1143a9db6959379336978a86e6aa9b8cdb78a12fd064f7dcb6ba5cc5
+
+El hardware no estuvo conectado durante esta verificacion.

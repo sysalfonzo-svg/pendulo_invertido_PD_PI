@@ -1,0 +1,31 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDEs & Editores
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Objetos temporales de compilación (mantener binarios/ de firmware)
+*.o
+*.obj
+*.elf
+
+# MATLAB temporales
+*.asv
+*.m~
+*.slxc
+slprj/
+*.autosave
+
+# Sistema Operativo
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
